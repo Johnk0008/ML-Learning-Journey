@@ -19,7 +19,11 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 |-----|----------------|-------------|
 | 1 | ML types in Python | [View Code](./Day1) |
 | 2 | Practiced Online vs Offline ML concepts with sample code | [View Code](./Day2) |
-|
+| 3 | Practiced data import (CSV, JSON, SQL) with key parameters | [View Code](./Day3) |
+| 4 | Practiced Data Gathering from API, DataFrame display, and CSV export | [View Code](./Day4) |
+| 5 | Day 5: Practiced Data Gathering using Web Scraping with BeautifulSoup and saved data to CSV
+ | [View Code](./Day5) |
+
 
 *(Table will keep growing daily 🚀)*  
 
