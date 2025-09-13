@@ -21,8 +21,9 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 2 | Practiced Online vs Offline ML concepts with sample code | [View Code](./Day2) |
 | 3 | Practiced data import (CSV, JSON, SQL) with key parameters | [View Code](./Day3) |
 | 4 | Practiced Data Gathering from API, DataFrame display, and CSV export | [View Code](./Day4) |
-| 5 | Day 5: Practiced Data Gathering using Web Scraping with BeautifulSoup and saved data to CSV
- | [View Code](./Day5) |
+| 5 | Day 5: Practiced Data Gathering using Web Scraping with BeautifulSoup and saved data to CSV| [View Code](./Day5) |
+| 6 | Day 5: Practiced Data Understanding, Correlation, and Univariate EDA (Countplot, Pie Chart, Histogram, Boxplot)| [View Code](./Day6) |
+
 
 
 *(Table will keep growing daily 🚀)*  
