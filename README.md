@@ -26,7 +26,8 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 7 | Imported multiple datasets and practiced data visualization techniques (Scatterplot, Bar plot, Box plot, HeatMap, PairPlot)| [View Code](./Day7) |
 | 8 | Practiced Pandas Profiling and Feature Engineering on Titanic Dataset| [View Code](./Day8) |
 | 9 | Practiced Ordinal & Nominal Data Handling, One Hot Encoding, Label Encoding| [View Code](./Day9) |
-
+| 10 | Practiced Missing Data Handling, CCA, and Data Visualization (Histograms & PDFs)| [View Code](./Day10) |
+| 11 | Practiced Data Imputation (Mean, Median, Arbitrary Value), Statistical Analysis, and Visualization| [View Code](./Day11) 
 
 
 
