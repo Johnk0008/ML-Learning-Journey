@@ -28,6 +28,8 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 9 | Practiced Ordinal & Nominal Data Handling, One Hot Encoding, Label Encoding| [View Code](./Day9) |
 | 10 | Practiced Missing Data Handling, CCA, and Data Visualization (Histograms & PDFs)| [View Code](./Day10) |
 | 11 | Practiced Data Imputation (Mean, Median, Arbitrary Value), Statistical Analysis, and Visualization| [View Code](./Day11) 
+| 12 | Implement missing value imputation (mode & categorical) with visualizations | [View Code](./Day12) 
+
 
 
 
