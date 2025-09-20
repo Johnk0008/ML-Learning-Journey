@@ -29,7 +29,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 10 | Practiced Missing Data Handling, CCA, and Data Visualization (Histograms & PDFs)| [View Code](./Day10) |
 | 11 | Practiced Data Imputation (Mean, Median, Arbitrary Value), Statistical Analysis, and Visualization| [View Code](./Day11) 
 | 12 | Implement missing value imputation (mode & categorical) with visualizations | [View Code](./Day12) 
-
+| 13 | Practiced Random Sample Imputation for Numeric & Categorical Data, Train-Test Split, and Data Comparison | [View Code](./Day13) 
 
 
 
