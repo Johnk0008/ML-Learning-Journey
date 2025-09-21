@@ -30,6 +30,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 11 | Practiced Data Imputation (Mean, Median, Arbitrary Value), Statistical Analysis, and Visualization| [View Code](./Day11) 
 | 12 | Implement missing value imputation (mode & categorical) with visualizations | [View Code](./Day12) 
 | 13 | Practiced Random Sample Imputation for Numeric & Categorical Data, Train-Test Split, and Data Comparison | [View Code](./Day13) 
+| 14 | Implemented Missing Value Imputation with Missing Indicator Method in Logistic Regression | [View Code](./Day14) 
 
 
 
