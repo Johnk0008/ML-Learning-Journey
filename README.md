@@ -32,6 +32,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 13 | Practiced Random Sample Imputation for Numeric & Categorical Data, Train-Test Split, and Data Comparison | [View Code](./Day13) 
 | 14 | Implemented Missing Value Imputation with Missing Indicator Method in Logistic Regression | [View Code](./Day14) 
 | 15 | Implemented KNN Imputer for missing values and applied Logistic Regression | [View Code](./Day15) 
+| 16 | Implemented missing value imputation with iterative predictions (Feature Engineering) | [View Code](./Day16) 
 
 
 
