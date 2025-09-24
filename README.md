@@ -33,7 +33,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 14 | Implemented Missing Value Imputation with Missing Indicator Method in Logistic Regression | [View Code](./Day14) 
 | 15 | Implemented KNN Imputer for missing values and applied Logistic Regression | [View Code](./Day15) 
 | 16 | Implemented missing value imputation with iterative predictions (Feature Engineering) | [View Code](./Day16) 
-
+| 17 | Added feature engineering techniques for Outlier Detection & Treatment (IQR, Z-Score, Isolation Forest) | [View Code](./Day17) 
 
 
 *(Table will keep growing daily 🚀)*  
