@@ -35,6 +35,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 16 | Implemented missing value imputation with iterative predictions (Feature Engineering) | [View Code](./Day16) 
 | 17 | Added feature engineering techniques for Outlier Detection & Treatment (IQR, Z-Score, Isolation Forest) | [View Code](./Day17) 
 | 18 | Implemented Z-Score based outlier detection and practice problems | [View Code](./Day18) 
+| 19 | Implemented Outlier Detection using IQR with Boxplot visualization and explained five-number summary | [View Code](./Day19) 
 
 
 
