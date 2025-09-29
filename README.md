@@ -38,6 +38,8 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 19 | Implemented Outlier Detection using IQR with Boxplot visualization and explained five-number summary | [View Code](./Day19) 
 | 20 | Implemented outlier detection and handling using Percentile Method (Trimming & Winsorization) with visualization | [View Code](./Day20) 
 | 21 | Added notes and code on Feature Construction & Feature Splitting | [View Code](./Day21) 
+| 22 | Added notebook on Feature Selection, Feature Extraction, and Curse of Dimensionality with KNN demo | [View Code](./Day22) 
+
 
 
 
