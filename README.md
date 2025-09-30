@@ -39,7 +39,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 20 | Implemented outlier detection and handling using Percentile Method (Trimming & Winsorization) with visualization | [View Code](./Day20) 
 | 21 | Added notes and code on Feature Construction & Feature Splitting | [View Code](./Day21) 
 | 22 | Added notebook on Feature Selection, Feature Extraction, and Curse of Dimensionality with KNN demo | [View Code](./Day22) 
-
+| 23 | Implemented Linear Regression (Simple, Multiple, Polynomial) with theory notes | [View Code](./Day23) 
 
 
 
