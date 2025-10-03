@@ -40,8 +40,9 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 21 | Added notes and code on Feature Construction & Feature Splitting | [View Code](./Day21) 
 | 22 | Added notebook on Feature Selection, Feature Extraction, and Curse of Dimensionality with KNN demo | [View Code](./Day22) 
 | 23 | Implemented Linear Regression (Simple, Multiple, Polynomial) with theory notes | [View Code](./Day23) 
-| 24 | Implemented Simple Linear Regression with OLS method | Calculated slope (m) & intercept (b) manually and verified with Scikit-Learn | [View Code](./Day24) 
+| 24 | Implemented Simple Linear Regression with OLS method :- Calculated slope (m) & intercept (b) manually and verified with Scikit-Learn | [View Code](./Day24) 
 | 25 | Implemented Regression Metrics (MAE, MSE, RMSE, R², Adjusted R²) with Python examples | [View Code](./Day25) 
+| 26 | Implemented Multiple Linear Regression with 3D/4D visualization and Beta coefficients | [View Code](./Day26) 
 
 
 
