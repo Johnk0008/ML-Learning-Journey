@@ -46,7 +46,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 27 | add Project 1 - Property Price Prediction using Linear Regression | [View Code](./Day27) 
 | 28 | add Project 2 - Add Customer Churn Prediction project with data preprocessing, ML models, and evaluation (Day 28 - 30 Days of ML) | [View Code](./Day28) 
 | 29 | add Project 3:- Early Disease Detection ML model - EDA, preprocessing, training & evaluation | [View Code](./Day29) 
-
+| 30 | add Project 4:- Completed Uber Data Analytics Project - data preprocessing & visualization ✅ | [View Code](./Day30) 
 
 
 *(Table will keep growing daily 🚀)*  
