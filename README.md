@@ -45,7 +45,7 @@ This repo contains my **hands-on practice, projects, and notes** as I build stro
 | 26 | Implemented Multiple Linear Regression with 3D/4D visualization and Beta coefficients | [View Code](./Day26) 
 | 27 | add Project 1 - Property Price Prediction using Linear Regression | [View Code](./Day27) 
 | 28 | add Project 2 - Add Customer Churn Prediction project with data preprocessing, ML models, and evaluation (Day 28 - 30 Days of ML) | [View Code](./Day28) 
-
+| 29 | add Project 3:- Early Disease Detection ML model - EDA, preprocessing, training & evaluation | [View Code](./Day29) 
 
 
 
